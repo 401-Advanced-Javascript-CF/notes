@@ -6,14 +6,13 @@
 
 ### Links and Resources
 
-- [ci/cd](http://xyz.com) (GitHub Actions)
-- [back-end server url](http://xyz.com) (when applicable)
-- [front-end application](http://xyz.com) (when applicable)
+- [GitHub](https://github.com/BryantDavis-401-advanced-javascript/notes) (GitHub Actions)
+
 
 ### Setup
 
 #### `.env` requirements (where applicable)
-
+not applicable
 i.e.
 
 - `PORT` - Port Number
@@ -21,16 +20,16 @@ i.e.
 
 #### How to initialize/run your application (where applicable)
 
-- e.g. `npm start`
+- `node index.js -a "words"`
 
 #### How to use your library (where applicable)
 
 #### Tests
-
+not applicable
 - How do you run tests?
 - Any tests of note?
 - Describe any tests that you did not complete, skipped, etc
 
 #### UML
-
+not applicable
 Link to an image of the UML for your application and response to events
