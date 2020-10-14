@@ -1,0 +1,26 @@
+{
+  "name": "notes",
+  "version": "1.0.0",
+  "description": "- [GitHub](https://github.com/BryantDavis-401-advanced-javascript/notes) (GitHub Actions)",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest --coverage --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BryantDavis-401-advanced-javascript/notes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BryantDavis-401-advanced-javascript/notes/issues"
+  },
+  "homepage": "https://github.com/BryantDavis-401-advanced-javascript/notes#readme",
+  "dependencies": {
+    "jest": "^26.5.3"
+  }
+}
