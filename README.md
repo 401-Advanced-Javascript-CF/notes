@@ -12,10 +12,8 @@
 ### Setup
 
 #### `.env` requirements (where applicable)
-not applicable
-i.e.
 
-- `PORT` - Port Number
+
 - `MONGODB_URI` - URL to the running mongo instance/db
 
 #### How to initialize/run your application (where applicable)
