@@ -15,7 +15,7 @@ if(input.action){
   }).then(() => {
     console.log('connected');
     const notes = new Notes(input);
-    notes.execute(process.argv[2], process.argv[3]).then(result => console.log(result))
+    notes.execute().then(result => console.log(result))
    });
 }
 else{
